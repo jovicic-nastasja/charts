@@ -1,9 +1,9 @@
-## Application details
+## Aplication details
 
-Application was created with ReactJS using [Chart.js](https://www.chartjs.org/) library.
+Aplication was created with ReactJS using [Chart.js](https://www.chartjs.org/) library.
 
-### Application functions
+### Aplication functions
 
-The application creates charts from specific datasets.
+The aplication creates charts from specific datasets.
 
-Live version: [link](http://nastasja-jovicic.fhio.xyz/projects/charts) to view it in the browser.
+Live demo: http://bit.ly/react-charts
